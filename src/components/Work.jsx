@@ -11,17 +11,17 @@ const data = [
     },
     {
         year: 2022,
-        title: "Master's - Alicante, Spain",
+        title: "Master's - University of Alicante, Spain",
         duration: '1 Year',
         details:
         "Completed my 2nd Master's degree at the singularly-renowned program of Alicante. Intensive 7-month course in Spain with 12 seperate modules of different epochs of music (baroque, classical, south american, etc.), each led by a world expert in the field. The only program in the world which features both David Russel and Manuel Barrueco as teachers. Learned conversational Spanish as well as performed throughout the city and for a recognition ceremony of Manuel Barrueco at Alicante town hall, an incredible honor which was featured in the local magazine of Alicante."
     },
     {
         year: 2021,
-        title: 'Room Service Server - Mandarin Oriental Hyde Park/One Hyde Park, London, UK',
+        title: "Room Service Server - Mandarin Oriental Hyde Park/One Hyde Park, London, UK',
         duration: '1 Year',
         details:
-        'Demonstrated ultimate capacity for 5-star service as room service attendant at what is considered by some to be the top hotel in the world, featuring One Hyde Park (once the highest-sold real estate location in London) and Dinner by Heston Blumenthal (often ranked as one of the top 10 restaurants in the world). Collaborated with colleagues from all around the world, across several departments of the hotel at this 5-star hotel in the exclusive Knightbridge district of London located alongside Hyde Park. Demonstrated effective service and was awarded letter of recognition and raise for my contributions during the busy holiday season. Was very fortunate for the opportunity to work here.'
+        "Demonstrated ultimate capacity for 5-star service as room service attendant at what is considered by some to be the top hotel in the world, featuring One Hyde Park (once the highest-sold real estate location in London) and Dinner by Heston Blumenthal (often ranked as one of the top 10 restaurants in the world). Collaborated with colleagues from all around the world, across several departments of the hotel at this 5-star hotel in the exclusive Knightbridge district of London located alongside Hyde Park and across the street from Harrod's. Demonstrated effective service and was awarded letter of recognition and raise for my contributions during the busy holiday season. Was very fortunate for the opportunity to work here."
     },
     {
         year: 2021,
