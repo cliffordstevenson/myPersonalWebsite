@@ -13,10 +13,10 @@ const Projects = () => {
                 I am passionate about learning new technologies and creating apps to solve real-world problems. Here are featured some of my most recent projects
             </p>
             <div className='grid sm:grid-cols-2 gap-12'>
-                <ProjectItem img={helpDeskImg} title='HelpDesk App'/>
-                <ProjectItem img={netflixImg} title='Netflix App'/>
-                <ProjectItem img={amazonImg} title='Amazon App'/>
-                <ProjectItem img={lamaStoreImg} title='E-commerce App'/>
+                <ProjectItem img={helpDeskImg} title='HelpDesk App' link="https://github.com/cliffordstevenson/SupportDesk"/>
+                <ProjectItem img={netflixImg} title='Netflix App' link='https://github.com/cliffordstevenson/NetflixApp'/>
+                <ProjectItem img={amazonImg} title='Amazon App' link="https://github.com/cliffordstevenson/AmazonApp"/>
+                <ProjectItem img={lamaStoreImg} title='E-commerce App' link="https://github.com/cliffordstevenson/ExplorerShop"/>
             </div>
         </div>
     )
