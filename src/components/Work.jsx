@@ -7,7 +7,7 @@ const data = [
         title: "Software Engineer Bootcamp",
         duration: '1 Year',
         details:
-        "Completed certificate from Coding Dojo: an immersive web development program specialized in teaching full stack development to train students to excel in the professional software development field — from front-end to back-end to data storage. Accumulated 1,000+ hours of intensive programming coursework, including building, testing, and debugging in Python, Java, and MERN. 200+ hours of full stack development on web apps and other technical projects. Languages: Python, Java, JavaScript, HTML, CSS, MySQL. Libraries/Frameworks/Tools: Flask, MongoDB, Express, React, Node.js, Mongoose, Spring Boot, Spring Boot, Spring Security. Programs: VSCode, MySQL Workbench (ORM Wireframe), Postman (API Testing)"
+        "Completed certificate from Coding Dojo: an immersive web development program specialized in teaching full stack development to train students to excel in the professional software development field — from front-end to back-end to data storage. Accumulated 1,000+ hours of intensive programming coursework, including building, testing, and debugging in Python, Java, and MERN. 200+ hours of full stack development on web apps and other technical projects. Languages: Python, Java, JavaScript, HTML, CSS, MySQL. Libraries/Frameworks/Tools: Flask, MongoDB, Express, React, Node.js, Mongoose, Spring Boot, Spring Security. Programs: VSCode, MySQL Workbench (ORM Wireframe), Postman (API Testing)"
     },
     {
         year: 2022,
@@ -18,7 +18,7 @@ const data = [
     },
     {
         year: 2021,
-        title: "Room Service Server - Mandarin Oriental Hyde Park/One Hyde Park, London, UK',
+        title: "Room Service Server - Mandarin Oriental Hyde Park/One Hyde Park, London, UK",
         duration: '1 Year',
         details:
         "Demonstrated ultimate capacity for 5-star service as room service attendant at what is considered by some to be the top hotel in the world, featuring One Hyde Park (once the highest-sold real estate location in London) and Dinner by Heston Blumenthal (often ranked as one of the top 10 restaurants in the world). Collaborated with colleagues from all around the world, across several departments of the hotel at this 5-star hotel in the exclusive Knightbridge district of London located alongside Hyde Park and across the street from Harrod's. Demonstrated effective service and was awarded letter of recognition and raise for my contributions during the busy holiday season. Was very fortunate for the opportunity to work here."
@@ -63,7 +63,7 @@ const data = [
 const Work = () => {
     return (
         <div id="work" className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
-            <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Work</h1>
+            <h1 className='text-4xl font-bold text-center text-[#001b5e] pb-8'>Work</h1>
             {data.map((item,idx)=>(
                 <WorkItem 
                 key={idx} 
