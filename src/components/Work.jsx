@@ -21,7 +21,7 @@ const data = [
         title: "Room Service Server - Mandarin Oriental Hyde Park/One Hyde Park, London, UK",
         duration: '1 Year',
         details:
-        "Demonstrated ultimate capacity for 5-star service as room service attendant at what is considered by some to be the top hotel in the world, featuring One Hyde Park (once the highest-sold real estate location in London) and Dinner by Heston Blumenthal (often ranked as one of the top 10 restaurants in the world). Collaborated with colleagues from all around the world, across several departments of the hotel at this 5-star hotel in the exclusive Knightbridge district of London located alongside Hyde Park and across the street from Harrod's. Demonstrated effective service and was awarded letter of recognition and raise for my contributions during the busy holiday season. Was very fortunate for the opportunity to work here."
+        "Demonstrated ultimate capacity for 5-star service as room service attendant at what is considered by some to be the top hotel in the world, featuring One Hyde Park (once the highest-sold real estate location in London) and 2 Michelin Star restaurant: Dinner by Heston Blumenthal (often ranked as one of the top 10 restaurants in the world). Collaborated with colleagues from all around the world, across several departments of the hotel at this 5-star hotel in the exclusive Knightbridge district of London located alongside Hyde Park and across the street from Harrod's. Demonstrated effective service and was awarded letter of recognition and raise for my contributions during the busy holiday season. Was very fortunate for the opportunity to work here."
     },
     {
         year: 2021,
@@ -49,7 +49,7 @@ const data = [
         title: 'Jefferson Hotel - Richmond, VA',
         duration: '2 Years',
         details:
-        'Maintained the highest possible service standards at the Jefferson Hotel. Dealt with several high intensity situations/emergencies at the hotel with singular precision and effective communication with managers. Collaborated between many departments within the hotel to provide to guest accomodations. Oversaw evening dinner shifts during busy high-volume winter seasons.'
+        'Maintained the highest possible service standards at the Jefferson Hotel rated 5 stars by Forbes and 5 diamond by AAA. As the senior team member, I regularly resolved guests complaints/needs, trained new team members, provided performance feedback, and lead the team. Dealt with several high intensity situations/emergencies at the hotel with singular precision and effective communication with managers. Collaborated between many departments within the hotel to provide to guest accomodations. Oversaw evening dinner shifts during busy high-volume winter seasons.'
     },
     {
         year: 2016,

@@ -1,9 +1,9 @@
 import React from 'react'
 import ProjectItem from './ProjectItem';
-import helpDeskImg from '../assets/Screenshot_20230114_113621.png'
-import netflixImg from '../assets/Screenshot_20230116_111514.png'
-import amazonImg from '../assets/Screenshot_20230116_111530.png'
-import lamaStoreImg from '../assets/Screenshot_20230116_111623.png'
+import helpDeskImg from '../assets/ChatIMG.png'
+import NetflixIMG from '../assets/NetflixIMG.png'
+import UserIMG from '../assets/UserIMG.png'
+import WeatherIMG from '../assets/WeatherIMG.png'
 
 const Projects = () => {
     return (
@@ -14,9 +14,10 @@ const Projects = () => {
             </p>
             <div className='grid sm:grid-cols-2 gap-12'>
                 <ProjectItem img={helpDeskImg} title='HelpDesk App' link="https://github.com/cliffordstevenson/SupportDesk"/>
-                <ProjectItem img={netflixImg} title='Netflix App' link='https://github.com/cliffordstevenson/NetflixApp'/>
-                <ProjectItem img={amazonImg} title='Amazon App' link="https://github.com/cliffordstevenson/AmazonApp"/>
-                <ProjectItem img={lamaStoreImg} title='E-commerce App' link="https://github.com/cliffordstevenson/ExplorerShop"/>
+                <ProjectItem img={NetflixIMG} title='Netflix App' link='https://github.com/cliffordstevenson/netflixfirebase'/>
+                <ProjectItem img={WeatherIMG} title='Weather App' link="https://github.com/cliffordstevenson/weatherapp"/>
+                <ProjectItem img={UserIMG} title='User App' link="https://github.com/cliffordstevenson/businessadmindashboard"/>
+                
             </div>
         </div>
     )
