@@ -6,6 +6,8 @@ Designed my portfolio website with React (Vite) and deployed with hostinger. Ini
 
 * React.js and tailwind CSS + react-icons used to efficiently generate a user-friendly, responsive website
 * Initialized a working contact-me form with GetForm
+* TypeAnimation imported to create a moving animation to increase engagement with the page
+* React Hooks like useState deployed to manage state across the application
 * Linked all of my socials and resume with react-icons
 * Deployed with hostinger
 
