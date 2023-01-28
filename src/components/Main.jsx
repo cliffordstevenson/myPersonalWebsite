@@ -15,19 +15,17 @@ const Main = () => {
                             sequence={[
                                 'a Developer', // Types 'One'
                                 2000, // Waits 1s
-                                'an international prize-winning classical guitarist', // Types 'One'
+                                'a Classical Guitarist', // Types 'One'
                                 2000, // Waits 1s
-                                'a strength and weightlifting enthusiast', // Types 'One'
+                                'a weightlifter', // Types 'One'
                                 2000, // Waits 1s
                                 'a Tech Enthusiast',
                                 2000,
                                 'a 5-star hospitality expert', // Types 'One'
                                 2000, // Waits 1s
                                 'a Team Leader',
-                                2000,
-                                'passionate about learning new technologies', // Types 'One'
                                 2000, // Waits 1s
-                                'an aspiring polyglot: Spanish and French',
+                                'an aspiring polyglot',
                                 2000,
                                 'a world traveler',
                                 2000,
