@@ -46,7 +46,7 @@ const Main = () => {
                         <a href="https://twitter.com/cliffspeaking"><FaTwitter className="cursor-pointer" size={20} /></a>
                         <a href="https://www.facebook.com/cliff.stevenson.9/"><FaFacebookF className="cursor-pointer" size={20} /></a>
                         <a href="https://www.instagram.com/acsguitar/?hl=en"><FaInstagram className="cursor-pointer" size={20} /></a>
-                        <a href="https://www.linkedin.com/in/cliffordandrewstevenson/"><FaLinkedinIn className="cursor-pointer" size={20} /></a>
+                        <a href="https://www.linkedin.com/in/cliffstvnsn/"><FaLinkedinIn className="cursor-pointer" size={20} /></a>
                         <a href="https://github.com/cliffstvnsn"><FaGithub className="cursor-pointer" size={20} /></a>
                     </div>
                 </div>
