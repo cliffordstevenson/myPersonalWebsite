@@ -25,10 +25,10 @@ const data = [
     },
     {
         year: 2021,
-        title: 'Trinity Laban Conservatoire of Music and Dance - London, UK',
+        title: 'Trinity College of Music - London, UK',
         duration: '2 Years',
         details:
-        "Earned my Master's with honors at Trinity in London: one of the world's most prestigious music colleges. Won the Montagu Cleeve prize for guitar in my Second Year. Was forunate to study there with Graham Devine. Performed at prestigious venues in London such as Wigmore Hall, The Queen's House and St. James Picadilly Cathedral. Went on to compete internationally in competitions and perform abroad in many countries such as France, Portugal, Austria and Spain. Went from self-taught only child in rural VA to prize-winner at one of the world's top conservatories. Completed my degree with honors while working as Bartender in Trafalgar Tavern in Greenwich"
+        "Earned my Master's with honors at Trinity in London: one of the world's top music colleges. Won the Montagu Cleeve prize for guitar in my Second Year. Was fortunate to study there with Graham Devine. Performed at prestigious venues in London such as Wigmore Hall, The Queen's House and St. James Picadilly Cathedral. Went on to compete internationally in competitions and perform abroad in many countries such as France, Portugal, Austria and Spain. Went from self-taught only child in rural VA to prize-winner at one of the world's top conservatories. Completed my degree with honors while working as Bartender in Trafalgar Tavern in Greenwich"
     },
     {
         year: 2019,
@@ -39,7 +39,7 @@ const data = [
     },
     {
         year: 2019,
-        title: 'VCU',
+        title: 'Virginia Commonwealth University',
         duration: '5 Years',
         details: 
         "Studied for my Bachelor's at Virginia Commonwealth University for Classical Guitar Performance under the tutelage of David Robinson. Was manager of Choral Arts Society for Dr. Erin Freeman. Took electives in math and religious studies under Department Head of Religious Studies Cliff Edwards and received top marks. Completed my degree while working full-time as a room server at the only 5-star hotel in Richmond, the Jefferson Hotel"

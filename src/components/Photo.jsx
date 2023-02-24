@@ -1,0 +1,12 @@
+import React from 'react'
+import ProfilePhoto from '../assets/ProfilePhoto.png'
+
+const Photo = () => {
+    return (
+        <div className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
+            <img src={ProfilePhoto} alt="img" height={100}/>
+        </div>
+    )
+}
+
+export default Photo

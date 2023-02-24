@@ -1,9 +1,9 @@
 import React from 'react'
 import ProjectItem from './ProjectItem';
-import helpDeskImg from '../assets/ChatIMG.png'
+import helpDeskImg from '../assets/HelpDeskBig.png'
 import NetflixIMG from '../assets/NetflixIMG.png'
 import UserIMG from '../assets/UserIMG.png'
-import WeatherIMG from '../assets/WeatherIMG.png'
+import SneakerHeadIMG from '../assets/SneakerHeadBig.png'
 
 const Projects = () => {
     return (
@@ -13,10 +13,10 @@ const Projects = () => {
                 I am passionate about learning new technologies and creating apps to solve real-world problems. Here are featured some of my most recent projects
             </p>
             <div className='grid sm:grid-cols-2 gap-12'>
-                <ProjectItem img={helpDeskImg} title='HelpDesk App' link="https://github.com/cliffordstevenson/SupportDesk"/>
-                <ProjectItem img={NetflixIMG} title='Netflix App' link='https://github.com/cliffordstevenson/netflixfirebase'/>
-                <ProjectItem img={WeatherIMG} title='Weather App' link="https://github.com/cliffordstevenson/weatherapp"/>
-                <ProjectItem img={UserIMG} title='User App' link="https://github.com/cliffordstevenson/businessadmindashboard"/>
+                <ProjectItem img={helpDeskImg} title='HelpDesk App' link="https://github.com/cliffstvnsn/SupportDesk"/>
+                <ProjectItem img={NetflixIMG} title='Netflix App' link='https://github.com/cliffstvnsn/netflixfirebase'/>
+                <ProjectItem img={SneakerHeadIMG} title='E-Commerce App' link="https://github.com/cliffstvnsn/SneakerHead"/>
+                <ProjectItem img={UserIMG} title='User App' link="https://github.com/cliffstvnsn/businessadmindashboard"/>
                 
             </div>
         </div>
