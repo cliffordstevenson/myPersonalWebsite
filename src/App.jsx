@@ -9,7 +9,6 @@ import Photo from './components/Photo';
 function App() {
   return (
     <div>
-  
       <Sidenav/>
       <Main/>
       <Work />
