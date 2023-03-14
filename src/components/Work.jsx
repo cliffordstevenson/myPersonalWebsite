@@ -63,7 +63,7 @@ const data = [
 
 const Work = () => {
     return (
-        <div id="work" className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
+        <div id="work" className='max-w-[1040px] m-auto md:pl-20 p-4 pt-16'>
             <h1 className='text-4xl font-bold text-center  text-[#001b5e] pb-8'>Skills</h1>
             <div className='flex flex-wrap pb-5'>
                 <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">HTML</div>
@@ -97,12 +97,12 @@ const Work = () => {
                 <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">VS Code</div>
 
             </div>
-            <h1 className='text-4xl font-bold text-center text-[#001b5e] pb-8'>About Me</h1>
+            <h1 className='text-4xl font-bold text-center text-[#001b5e] pb-8 pt-16'>About Me</h1>
             <div className='flex flex-wrap'>
                 <p>I have always been passionate about technology. While Completing my 2nd Master's degree I realized I don't want to be a music teacher for my career. Instead I decided after I finished to take the jump and get certified for my coding skills with Coding Dojo. It was a challenge, but I couldn't be happier with the knowledge that I've gained. I'm a highly motivated learner, most recently excelling at API integration, &
                     UI/UX feature creation, and working with various technologies to display data in a meaningful, accessible way for consumers. In my spare time I like to study music, powerlift in the gym, read books, watch movies and hang out with my dog Bindi.</p>
             </div>
-            <div className='max-w-[520px] m-auto md:pl-20 p-4 py-16'>
+            <div className='max-w-[520px] m-auto md:pl-20 p-4 pt-12'>
                 <img src={Bindi} alt="img" height={100} />
             </div>
 

@@ -5,6 +5,7 @@ import Projects from './components/Projects';
 import Sidenav from './components/Sidenav';
 import Work from './components/Work';
 import Photo from './components/Photo';
+import Resume from './components/Resume/Resume';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Main/>
       <Work />
       <Projects/>
+      <Resume />
       <Photo/>
       <Contact/>
     </div>
