@@ -4,7 +4,7 @@
 
 Designed my portfolio website with React (Vite) and deployed with hostinger. Initialized a working contact-me form with GetForm and linked all my socials and resume. It's styled with react-icons and is fully responsive for mobile devices and all screen sizes.
 
-* React.js and tailwind CSS + react-icons used to efficiently generate a user-friendly, responsive website
+* React.js and Tailwind CSS used to efficiently generate a user-friendly, responsive website
 * Initialized a working contact-me form with GetForm
 * TypeAnimation imported to create a moving animation to increase engagement with the page
 * React Hooks like useState deployed to manage state across the application
