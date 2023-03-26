@@ -1,5 +1,6 @@
 .resumeSec {
     padding: 2rem 10%;
+    background-color: #1f1f1f;
 }
 
 .container {
@@ -25,12 +26,16 @@
 
 .top a {
     text-decoration: none;
-    color: black;
+    color: #bfbfbf;
     font-weight: bolder;
 }
 
+.top {
+    color: #b7b7b7;
+}
+
 a:hover {
-    color: rgb(0, 27, 94);
+    color: #99afe6;
 }
 
 .resume {

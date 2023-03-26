@@ -63,43 +63,43 @@ const data = [
 
 const Work = () => {
     return (
-        <div id="work" className='max-w-[1040px] m-auto md:pl-20 p-4 pt-16'>
-            <h1 className='text-4xl font-bold text-center  text-[#001b5e] pb-8'>Skills</h1>
+        <div id="work" className='max-w-[1040px] m-auto md:pl-20 p-4 pt-16 bg-[#1f1f1f]'>
+            <h1 className='text-4xl font-bold text-center  text-[#99afe6] pb-8'>Skills</h1>
             <div className='flex flex-wrap pb-5'>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">HTML</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">CSS</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">JavaScript</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Python</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">React.js</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Next.js</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Java</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Flask</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Express</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Node.js</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Spring Boot</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Spring Security</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Bcrypt</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Bootstrap</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Tailwind</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Sass</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Material-UI</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">MongoDB</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">MySQL</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Mongoose</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Jinja</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Rest APIs</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">AJAX</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">Strapi</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">OOP</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">AWS</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">GIT</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">GitHub</div>
-                <div className="py-4 px-5 mb-4 mr-5 bg-[#ebebeb] rounded-lg font-semibold text-[#001b5e]">VS Code</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">HTML</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">CSS</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">JavaScript</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Python</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">React.js</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Next.js</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Java</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Flask</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Express</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Node.js</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Spring Boot</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Spring Security</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Bcrypt</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Bootstrap</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Tailwind</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Sass</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Material-UI</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">MongoDB</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">MySQL</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Mongoose</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Jinja</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Rest APIs</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">AJAX</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">Strapi</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">OOP</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">AWS</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">GIT</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">GitHub</div>
+                <div className="py-4 px-5 mb-4 mr-5 bg-[#2e2e2e] rounded-lg font-semibold text-[#99afe6]">VS Code</div>
 
             </div>
-            <h1 className='text-4xl font-bold text-center text-[#001b5e] pb-8 pt-16'>About Me</h1>
+            <h1 className='text-4xl font-bold text-center text-[#99afe6] pb-8 pt-16'>About Me</h1>
             <div className='flex flex-wrap'>
-                <p>I have always been passionate about technology. While Completing my 2nd Master's degree I realized I don't want to be a music teacher for my career. Instead I decided after I finished to take the jump and get certified for my coding skills with Coding Dojo. It was a challenge, but I couldn't be happier with the knowledge that I've gained. I'm a highly motivated learner, most recently excelling at API integration, &
+                <p className='text-[#bcbcbc]'>I have always been passionate about technology. While Completing my 2nd Master's degree I realized I don't want to be a music teacher for my career. Instead I decided after I finished to take the jump and get certified for my coding skills with Coding Dojo. It was a challenge, but I couldn't be happier with the knowledge that I've gained. I'm a highly motivated learner, most recently excelling at API integration, &
                     UI/UX feature creation, and working with various technologies to display data in a meaningful, accessible way for consumers. In my spare time I like to study music, powerlift in the gym, read books, watch movies and hang out with my dog Bindi.</p>
             </div>
             <div className='max-w-[520px] m-auto md:pl-20 p-4 pt-12'>

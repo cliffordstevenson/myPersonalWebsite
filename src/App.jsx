@@ -9,7 +9,7 @@ import Resume from './components/Resume/Resume';
 
 function App() {
   return (
-    <div>
+    <div className='bg-[#1f1f1f]'>
       <Sidenav/>
       <Main/>
       <Work />
